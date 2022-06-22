@@ -1,0 +1,48 @@
+.plus {
+	border: 2px solid #grey;
+	background-color: #B0C4DE;
+	font-size: 20px;
+	color: #000000;
+}
+.minus {
+	border: 2px solid #grey;
+	background-color: #B0C4DE;
+	font-size: 20px;
+	color: #000000;
+}
+.divide {
+	border: 2px solid #grey;
+	background-color: #B0C4DE;
+	font-size: 20px;
+	color: #000000;
+}
+.multiply {
+	border: 2px solid #grey;
+	background-color: #B0C4DE;
+	font-size: 20px;
+	color: #000000;
+}
+.clear {
+	border: 2px solid #grey;
+	background-color: #4682B4;
+	font-size: 20px;
+	color: #000000;
+}
+.number-One {
+	border: 2px solid #grey;
+	background-color: #B0C4DE;
+	font-size: 20px;
+	color: #000000;
+	width: 150px;
+}
+.number-Two {
+	border: 2px solid #grey;
+	background-color: #B0C4DE;
+	font-size: 20px;
+	color: #000000;
+	width: 150px;
+}
+.result {
+	color: #000000;
+	font-size: 20px;
+}
